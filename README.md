@@ -2,7 +2,8 @@
 Interpretable ML pipeline to predict 1‑year acute kidney transplant rejection using OPTN STAR data. Includes data loading, preprocessing, and feature engineering (PRA, HLA mismatches, donor type); trains Logistic Regression, Decision Tree, and tuned Random Forest; evaluates via ROC and confusion matrix; uses SHAP for explainability.
 Acute Renal Transplant Rejection Prediction
 
-Project Overview
+Project Overview - Also a link to the complete working of the project on Youtube - https://youtu.be/A-tvZGjENvw
+
 
 This project implements an interpretable machine learning pipeline to predict one-year acute renal transplant rejection using the OPTN STAR registry data. It demonstrates:
 
